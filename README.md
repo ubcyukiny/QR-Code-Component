@@ -22,8 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [link](https://ubcyukiny.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -36,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Centering a div, various css properties
+Centering a div, various css properties, deploy using github pages
 
 
 ### Useful resources
@@ -47,6 +46,4 @@ Centering a div, various css properties
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@ubcyukiny](https://www.frontendmentor.io/profile/ubcyukiny)
