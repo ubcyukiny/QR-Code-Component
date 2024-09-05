@@ -1,8 +1,9 @@
 body {
     background-color: #D5E1EF;
-    display: grid;
-    justify-content: center;
-    align-items: center;
+    display:flex;
+    flex-direction:column;
+    height: 100vh;
+    margin: 0;
 }
 
 .card {
@@ -16,6 +17,7 @@ body {
     padding-bottom: 40px;
     text-align: center;
     margin: auto;
+    
 }
 
 .cardText {
